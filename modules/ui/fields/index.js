@@ -42,6 +42,7 @@ import {
 import { uiFieldAccess } from './access';
 import { uiFieldAddress } from './address';
 import { uiFieldCycleway } from './cycleway';
+import { uiFieldOpeningHours } from './hours';
 import { uiFieldLanes } from './lanes';
 import { uiFieldLocalized } from './localized';
 import { uiFieldMaxspeed } from './maxspeed';
@@ -57,6 +58,7 @@ export var uiFields = {
     cycleway: uiFieldCycleway,
     defaultCheck: uiFieldDefaultCheck,
     email: uiFieldEmail,
+    hours: uiFieldOpeningHours,
     lanes: uiFieldLanes,
     localized: uiFieldLocalized,
     maxspeed: uiFieldMaxspeed,

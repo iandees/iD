@@ -128,6 +128,7 @@ The complete JSON schema for fields can be found in [`data/presets/schema/field.
 * `address` - Block of text and dropdown fields for entering address information (localized for editing location)
 * `cycleway` - Block of dropdowns for adding `cycleway:left` and `cycleway:right` tags on a highway
 * `maxspeed` - Numeric text field for speed and dropdown for "mph/kph"
+* `hours` - Block of day-of-week and time range information for `opening_hours` tags
 * `restrictions` - Graphical field for editing turn restrictions
 * `wikipedia` - Block of fields for selecting a wiki language and Wikipedia page
 
